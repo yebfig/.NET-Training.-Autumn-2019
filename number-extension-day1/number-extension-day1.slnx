@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="number-extension-day1.Test/number-extension-day1.Test.csproj" />
+  <Project Path="number-extension-day1/number-extension-day1.csproj" />
+</Solution>

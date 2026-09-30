@@ -1,0 +1,12 @@
+D:\csharp-projects\number-extension-day1\number-extension-day1\bin\Debug\net10.0\number-extension-day1.deps.json
+D:\csharp-projects\number-extension-day1\number-extension-day1\bin\Debug\net10.0\number-extension-day1.dll
+D:\csharp-projects\number-extension-day1\number-extension-day1\bin\Debug\net10.0\number-extension-day1.pdb
+D:\csharp-projects\number-extension-day1\number-extension-day1\obj\Debug\net10.0\number-extension-day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\number-extension-day1\number-extension-day1\obj\Debug\net10.0\number-extension-day1.AssemblyInfoInputs.cache
+D:\csharp-projects\number-extension-day1\number-extension-day1\obj\Debug\net10.0\number-extension-day1.AssemblyInfo.cs
+D:\csharp-projects\number-extension-day1\number-extension-day1\obj\Debug\net10.0\number-extension-day1.csproj.CoreCompileInputs.cache
+D:\csharp-projects\number-extension-day1\number-extension-day1\obj\Debug\net10.0\number-extension-day1.dll
+D:\csharp-projects\number-extension-day1\number-extension-day1\obj\Debug\net10.0\refint\number-extension-day1.dll
+D:\csharp-projects\number-extension-day1\number-extension-day1\obj\Debug\net10.0\number-extension-day1.pdb
+D:\csharp-projects\number-extension-day1\number-extension-day1\obj\Debug\net10.0\ref\number-extension-day1.dll
+D:\csharp-projects\number-extension-day1\number-extension-day1\obj\Debug\net10.0\number-e.625E05B3.Up2Date
