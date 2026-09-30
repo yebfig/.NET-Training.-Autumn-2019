@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ArrayExtensions/ArrayExtensions.csproj" />
+  <Project Path="ArraуExtensions.Test/ArraуExtensions.Test.csproj" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+</Solution>

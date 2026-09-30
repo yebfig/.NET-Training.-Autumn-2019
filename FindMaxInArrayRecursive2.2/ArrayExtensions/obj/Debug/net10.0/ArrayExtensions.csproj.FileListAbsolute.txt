@@ -1,0 +1,13 @@
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\bin\Debug\net10.0\ArrayExtensions.deps.json
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\bin\Debug\net10.0\ArrayExtensions.dll
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\bin\Debug\net10.0\ArrayExtensions.pdb
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\obj\Debug\net10.0\ArrayExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\obj\Debug\net10.0\ArrayExtensions.AssemblyInfoInputs.cache
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\obj\Debug\net10.0\ArrayExtensions.AssemblyInfo.cs
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\obj\Debug\net10.0\ArrayExtensions.csproj.CoreCompileInputs.cache
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\obj\Debug\net10.0\ArrayExtensions.sourcelink.json
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\obj\Debug\net10.0\ArrayExtensions.dll
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\obj\Debug\net10.0\refint\ArrayExtensions.dll
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\obj\Debug\net10.0\ArrayExtensions.pdb
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\obj\Debug\net10.0\ref\ArrayExtensions.dll
+D:\csharp-projects\FindMaxInArrayRecursive2.2\ArrayExtensions\obj\Debug\net10.0\ArrayExt.F2EA842B.Up2Date

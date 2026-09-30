@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-projects\\FindMaxInArrayRecursive2.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp-projects\\FindMaxInArrayRecursive2.2\\FindMaxInArrayRecursive2.2\\ArrayExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FindMaxInArrayRecursive2.2\\ArrayExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp-projects\\FindMaxInArrayRecursive2.2\\FindMaxInArrayRecursive.Test\\ArrayExtensionTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FindMaxInArrayRecursive.Test\\ArrayExtensionTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayExtensionTests.cs",
+              "DocumentMoniker": "D:\\csharp-projects\\FindMaxInArrayRecursive2.2\\FindMaxInArrayRecursive.Test\\ArrayExtensionTests.cs",
+              "RelativeDocumentMoniker": "FindMaxInArrayRecursive.Test\\ArrayExtensionTests.cs",
+              "ToolTip": "D:\\csharp-projects\\FindMaxInArrayRecursive2.2\\FindMaxInArrayRecursive.Test\\ArrayExtensionTests.cs",
+              "RelativeToolTip": "FindMaxInArrayRecursive.Test\\ArrayExtensionTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwv0EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T18:49:46.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayExtension.cs",
+              "DocumentMoniker": "D:\\csharp-projects\\FindMaxInArrayRecursive2.2\\FindMaxInArrayRecursive2.2\\ArrayExtension.cs",
+              "RelativeDocumentMoniker": "FindMaxInArrayRecursive2.2\\ArrayExtension.cs",
+              "ToolTip": "D:\\csharp-projects\\FindMaxInArrayRecursive2.2\\FindMaxInArrayRecursive2.2\\ArrayExtension.cs",
+              "RelativeToolTip": "FindMaxInArrayRecursive2.2\\ArrayExtension.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T18:31:49.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
