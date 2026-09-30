@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-projects\\day3-practice-tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9E9377-DEE5-4633-9D44-C472B6D740B7}|day3-practice-tasks\\day3-practice-tasks.csproj|d:\\csharp-projects\\day3-practice-tasks\\day3-practice-tasks\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9E9377-DEE5-4633-9D44-C472B6D740B7}|day3-practice-tasks\\day3-practice-tasks.csproj|solutionrelative:day3-practice-tasks\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\csharp-projects\\day3-practice-tasks\\day3-practice-tasks\\Class1.cs",
+              "RelativeDocumentMoniker": "day3-practice-tasks\\Class1.cs",
+              "ToolTip": "D:\\csharp-projects\\day3-practice-tasks\\day3-practice-tasks\\Class1.cs",
+              "RelativeToolTip": "day3-practice-tasks\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T19:33:53.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
