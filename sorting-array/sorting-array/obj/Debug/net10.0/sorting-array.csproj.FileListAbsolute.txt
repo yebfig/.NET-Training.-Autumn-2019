@@ -1,0 +1,12 @@
+D:\csharp-projects\sorting-array\sorting-array\obj\Debug\net10.0\sorting-array.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\sorting-array\sorting-array\obj\Debug\net10.0\sorting-array.AssemblyInfoInputs.cache
+D:\csharp-projects\sorting-array\sorting-array\obj\Debug\net10.0\sorting-array.AssemblyInfo.cs
+D:\csharp-projects\sorting-array\sorting-array\obj\Debug\net10.0\sorting-array.csproj.CoreCompileInputs.cache
+D:\csharp-projects\sorting-array\sorting-array\bin\Debug\net10.0\sorting-array.deps.json
+D:\csharp-projects\sorting-array\sorting-array\bin\Debug\net10.0\sorting-array.dll
+D:\csharp-projects\sorting-array\sorting-array\bin\Debug\net10.0\sorting-array.pdb
+D:\csharp-projects\sorting-array\sorting-array\obj\Debug\net10.0\sorting-array.dll
+D:\csharp-projects\sorting-array\sorting-array\obj\Debug\net10.0\refint\sorting-array.dll
+D:\csharp-projects\sorting-array\sorting-array\obj\Debug\net10.0\sorting-array.pdb
+D:\csharp-projects\sorting-array\sorting-array\obj\Debug\net10.0\ref\sorting-array.dll
+D:\csharp-projects\sorting-array\sorting-array\obj\Debug\net10.0\sorting-.4ECE301E.Up2Date

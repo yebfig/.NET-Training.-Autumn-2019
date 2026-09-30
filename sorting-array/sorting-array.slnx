@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="sorting-array-test/sorting-array-test.csproj" Id="62f30769-7007-480e-8b4b-d099742d0091" />
+  <Project Path="sorting-array/sorting-array.csproj" />
+</Solution>
