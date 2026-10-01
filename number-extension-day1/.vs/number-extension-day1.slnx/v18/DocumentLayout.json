@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-projects\\number-extension-day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0CB802-6AF9-4A07-F71F-CC842FF926E1}|number-extension-day1\\number-extension-day1.csproj|d:\\csharp-projects\\number-extension-day1\\number-extension-day1\\numbersextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0CB802-6AF9-4A07-F71F-CC842FF926E1}|number-extension-day1\\number-extension-day1.csproj|solutionrelative:number-extension-day1\\numbersextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81ABF426-4DFA-6C7D-82C1-DB1CE103FB6D}|number-extension-day1.Test\\number-extension-day1.Test.csproj|d:\\csharp-projects\\number-extension-day1\\number-extension-day1.test\\numbersextension.test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81ABF426-4DFA-6C7D-82C1-DB1CE103FB6D}|number-extension-day1.Test\\number-extension-day1.Test.csproj|solutionrelative:number-extension-day1.test\\numbersextension.test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumbersExtension.Test.cs",
+              "DocumentMoniker": "D:\\csharp-projects\\number-extension-day1\\number-extension-day1.Test\\NumbersExtension.Test.cs",
+              "RelativeDocumentMoniker": "number-extension-day1.Test\\NumbersExtension.Test.cs",
+              "ToolTip": "D:\\csharp-projects\\number-extension-day1\\number-extension-day1.Test\\NumbersExtension.Test.cs",
+              "RelativeToolTip": "number-extension-day1.Test\\NumbersExtension.Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T16:37:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumbersExtension.cs",
+              "DocumentMoniker": "D:\\csharp-projects\\number-extension-day1\\number-extension-day1\\NumbersExtension.cs",
+              "RelativeDocumentMoniker": "number-extension-day1\\NumbersExtension.cs",
+              "ToolTip": "D:\\csharp-projects\\number-extension-day1\\number-extension-day1\\NumbersExtension.cs",
+              "RelativeToolTip": "number-extension-day1\\NumbersExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T16:23:52.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
