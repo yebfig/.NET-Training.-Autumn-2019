@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\csharp-projects\\day3-practice-tasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80C6C390-CCCA-4D86-B010-D95F2F5ECED5}|MathExtensionTest\\MathExtensionTest.csproj|d:\\csharp-projects\\day3-practice-tasks\\mathextensiontest\\mathextensiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80C6C390-CCCA-4D86-B010-D95F2F5ECED5}|MathExtensionTest\\MathExtensionTest.csproj|solutionrelative:mathextensiontest\\mathextensiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CEB77FC0-AD60-7316-A201-E7585C89138A}|day3-practice-tasks\\day3-practice-tasks.csproj|d:\\csharp-projects\\day3-practice-tasks\\day3-practice-tasks\\mathextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEB77FC0-AD60-7316-A201-E7585C89138A}|day3-practice-tasks\\day3-practice-tasks.csproj|solutionrelative:day3-practice-tasks\\mathextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C6C390-CCCA-4D86-B010-D95F2F5ECED5}|MathExtensionTest\\MathExtensionTest.csproj|d:\\csharp-projects\\day3-practice-tasks\\mathextensiontest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C6C390-CCCA-4D86-B010-D95F2F5ECED5}|MathExtensionTest\\MathExtensionTest.csproj|solutionrelative:mathextensiontest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MathExtensionTest.cs",
-              "DocumentMoniker": "D:\\csharp-projects\\day3-practice-tasks\\MathExtensionTest\\MathExtensionTest.cs",
-              "RelativeDocumentMoniker": "MathExtensionTest\\MathExtensionTest.cs",
-              "ToolTip": "D:\\csharp-projects\\day3-practice-tasks\\MathExtensionTest\\MathExtensionTest.cs",
-              "RelativeToolTip": "MathExtensionTest\\MathExtensionTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAYAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\csharp-projects\\day3-practice-tasks\\MathExtensionTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MathExtensionTest\\UnitTest1.cs",
+              "ToolTip": "D:\\csharp-projects\\day3-practice-tasks\\MathExtensionTest\\UnitTest1.cs",
+              "RelativeToolTip": "MathExtensionTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T04:11:12.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MathExtension.cs",
               "DocumentMoniker": "D:\\csharp-projects\\day3-practice-tasks\\day3-practice-tasks\\MathExtension.cs",
               "RelativeDocumentMoniker": "day3-practice-tasks\\MathExtension.cs",
               "ToolTip": "D:\\csharp-projects\\day3-practice-tasks\\day3-practice-tasks\\MathExtension.cs",
               "RelativeToolTip": "day3-practice-tasks\\MathExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T19:33:53.557Z",
               "EditorCaption": ""

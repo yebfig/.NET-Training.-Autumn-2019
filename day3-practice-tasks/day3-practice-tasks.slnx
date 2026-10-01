@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="day3-practice-tasks/day3-practice-tasks.csproj" />
+  <Project Path="MathExtensionTest/MathExtensionTest.csproj" Id="80c6c390-ccca-4d86-b010-d95f2f5eced5" />
 </Solution>
